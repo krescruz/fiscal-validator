@@ -18,7 +18,7 @@ def rfc_validator(value):
         raise ValueError(message)
 
 
-def imss_validator(value):
+def nss_validator(value):
     message = 'Número de Seguro Social invalido'
     regex = '^(\d{2})(\d{2})(\d{2})\d{5}$'
 

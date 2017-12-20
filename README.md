@@ -3,7 +3,7 @@
 ```python
 >> curp_validator('...')
 >> rfc_validator('...')
->> imss_validator('...')
+>> nss_validator('...')
 ```
 ___
 
